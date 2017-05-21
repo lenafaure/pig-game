@@ -1,6 +1,6 @@
 # Vanilla JavaScript Pig Game
 
-![Pig Game](Pig game.png)
+![Pig Game](pig_game.png)
 
 GAME RULES:
 
